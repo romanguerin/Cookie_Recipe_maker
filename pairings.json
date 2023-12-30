@@ -1,0 +1,294 @@
+{
+    "pairings": [
+        {
+            "name": "apple",
+            "combinations": [
+                [ "almond" ],
+                [ "lemon" ],
+                [ "cinnamon" ],
+                [ "caramel" ],
+                [ "cherry" ],
+                [ "raisin" ],
+                [ "vanilla" ],
+                [ "walnut" ],
+                [ "banana" ],
+                [ "cranberry" ],
+                [ "honey" ],
+                [ "pear" ],
+                [ "pear", "date", "apricot" ],
+                [ "prune", "walnut" ],
+                [ "prune", "choclate" ],
+                [ "gingerbead spices" ],
+                [ "elderberry" ]
+            ]
+        },
+        {
+            "name": "cinnamon",
+            "combinations": [
+                [ "pear" ],
+                [ "plum" ],
+                [ "orange" ],
+                [ "almond" ],
+                [ "apple", "pear", "date" ],
+                [ "apricot", "plum"],
+                [ "walnut", "orange" ],
+                [ "blueberries" ],
+                [ "chocolate" ],
+                [ "lemon" ],
+                [ "raspberry" ]
+            ]
+        },
+        {
+            "name": "walnut",
+            "combinations": [
+                [ "apple" ],
+                [ "banana" ],
+                [ "honey" ],
+                [ "pear" ],
+                [ "plum" ],
+                [ "apricot" ],
+                [ "apple", "pear", "date" ],
+                [ "apricot", "plum" ],
+                [ "chocolate", "caramel" ],
+                [ "cranberry" ],
+                [ "fig" ],
+                [ "carrot" ],
+                [ "cardamon" ],
+                [ "poppy seed" ]
+            ]
+        },
+        {
+            "name": "pistachio",
+            "combinations": [
+                [ "lemon" ],
+                [ "almond" ],
+                [ "blackberry" ],
+                [ "chocolate" ],
+                [ "cherry", "white chocolate" ],
+                [ "coconut" ],
+                [ "almond", "carrot" ]
+            ]
+        },
+        {
+            "name": "hazelnut",
+            "combinations": [
+                [ "chocolate" ],
+                [ "honey" ],
+                [ "caramel" ],
+                [ "pear" ],
+                [ "blackberry" ],
+                [ "chocolate", "vanilla" ],
+                [ "raspberry" ],
+                [ "cardamon" ],
+                [ "nut", "plum", "chocolate" ]
+            ]
+        },
+        {
+            "name": "almond",
+            "combinations": [
+                [ "apricot" ],
+                [ "apple" ],
+                [ "chocolate" ],
+                [ "pecan nut", "caramel" ],
+                [ "coconut" ],
+                [ "pear" ],
+                [ "cinnamon" ],
+                [ "pistachio" ],
+                [ "gingerbread" ],
+                [ "fig" ],
+                [ "apricot", "strawberry" ],
+                [ "lemon", "basil" ],
+                [ "banana", "ginger" ],
+                [ "blueberries", "lavender" ],
+                [ "forest fruit", "raspberry" ],
+                [ "pistachio", "carrot"]
+            ]
+        },
+        {
+            "name": "vanilla",
+            "combinations": [
+                [ "raspberry" ],
+                [ "strawberry" ],
+                [ "apple" ],
+                [ "blueberries" ],
+                [ "chocolate" ],
+                [ "pecan nut", "caramel" ],
+                [ "coconut" ],
+                [ "strawberry" ],
+                [ "berry" ],
+                [ "cassis" ],
+                [ "chocolate", "mint" ],
+                [ "hazelnut"],
+                [ "chocolate", "mango" ],
+                [ "orange" ]
+            ]
+        },
+        {
+            "name": "orange",
+            "combinations": [
+                [ "banana" ],
+                [ "chocolate" ],
+                [ "honey" ],
+                [ "cinnamon" ],
+                [ "mango" ],
+                [ "peach" ],
+                [ "apple","pear","date" ],
+                [ "ginger" ],
+                [ "honey" ],
+                [ "chocolate", "Mint" ],
+                [ "hazelnut"],
+                [ "chocolate", "walnut" ],
+                [ "cranberry" ]
+            ]
+        },
+        {
+            "name": "lemon",
+            "combinations": [
+                [ "apple" ],
+                [ "blueberries" ],
+                [ "cassis" ],
+                [ "red berry" ],
+                [ "chocolate" ],
+                [ "cranberry" ],
+                [ "raspberry" ],
+                [ "honey" ],
+                [ "cinnamon" ],
+                [ "kiwi" ],
+                [ "pistachio"],
+                [ "rum" ]
+            ]
+        },
+        {
+            "name": "blueberries",
+            "combinations": [
+                [ "lemon" ],
+                [ "banana" ],
+                [ "cinnamon" ],
+                [ "vanilla" ],
+                [ "white chocolate" ],
+                [ "mascarpone" ],
+                [ "almond" ]
+            ]
+        },
+        {
+            "name": "plum",
+            "combinations": [
+                [ "lemon" ],
+                [ "banana" ],
+                [ "cinnamon" ],
+                [ "walnut" ],
+                [ "chocolate" ],
+                [ "apricot" ],
+                [ "apple","pear","date" ],
+                [ "mascarpone" ],
+                [ "caramel" ],
+                [ "cherry" ],
+                [ "almond" ]
+            ]
+        },{
+            "name": "chocolate",
+            "combinations": [
+                [ "strawberry" ],
+                [ "blackberry" ],
+                [ "chocolate" ],
+                [ "raspberry" ],
+                [ "caramel" ],
+                [ "coconut" ],
+                [ "cherry" ],
+                [ "mint" ],
+                [ "nuts" ],
+                [ "pear" ],
+                [ "orange" ],
+                [ "vanilla" ]
+            ]
+        },
+        {
+            "name": "white chocolate",
+            "combinations": [
+                [ "apricot" ],
+                [ "pineapple", "coconut" ],
+                [ "blackberry" ],
+                [ "caramel", "walnut" ],
+                [ "cherry", "pistachio" ],
+                [ "plum", "cashew" ],
+                [ "gingerbread" ],
+                [ "rhubarb" ],
+                [ "fig" ],
+                [ "raspberry", "mint" ]
+            ]
+        },
+        {
+            "name": "dark chocolate",
+            "combinations": [
+                [ "strawberry", "orange" ],
+                [ "apple", "prune" ],
+                [ "chili" ],
+                [ "black pepper" ],
+                [ "lemon" ],
+                [ "cranberry" ],
+                [ "ginger" ],
+                [ "raspberry", "blackberry" ],
+                [ "cinnamon" ],
+                [ "mango", "chocolate", "vanilla" ],
+                [ "nougat" ],
+                [ "passionfruit" ],
+                [ "pecan", "caramel" ],
+                [ "vanilla", "mint"],
+                [ "walnut", "caramel"],
+                [ "sea salt" ],
+                [ "chili", "cherry"],
+                [ "caramel", "sea salt" ],
+                [ "cardamom" ],
+                [ "cherry", "pistachio" ],
+                [ "kumquat" ],
+                [ "prune", "nuts" ],
+                [ "rose" ],
+                [ "rosemary", "sea salt" ],
+                [ "orange", "ginger" ]
+            ]
+        },
+        {
+            "name": "coconut",
+            "combinations": [
+                [ "almond" ],
+                [ "pineapple" ],
+                [ "chocolate" ],
+                [ "lime" ],
+                [ "vanilla" ],
+                [ "pineapple", "white chocolate" ],
+                [ "macadamia" ],
+                [ "mango" ],
+                [ "pecan", "caramel" ],
+                [ "pistachio" ]
+            ]
+        },
+        {
+            "name": "raspberry",
+            "combinations": [
+                [ "strawberry" ],
+                [ "lemon" ],
+                [ "yoghurt" ],
+                [ "quark" ],
+                [ "peach" ],
+                [ "rhubarb" ],
+                [ "red berry" ],
+                [ "white chocolate" ],
+                [ "almond" ],
+                [ "blackberry", "chocolate" ],
+                [ "cranberry" ],
+                [ "caramel" ],
+                [ "quark", "blackberry", "lime" ],
+                [ "tangerine" ],
+                [ "mango" ],
+                [ "mascarpone" ],
+                [ "passionfruit" ],
+                [ "basil" ],
+                [ "pomegranate" ],
+                [ "hazelnut" ],
+                [ "cinnamon" ],
+                [ "current", "raisin", "almond" ],
+                [ "white chocolate", "mint" ]
+            ]
+        }
+    ]
+}

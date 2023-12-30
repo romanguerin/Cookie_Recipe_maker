@@ -1,0 +1,278 @@
+{
+  "recipes": [
+    {
+      "name": "Sand Cookie",
+      "ingredients": [
+        { "amount": "0.5",  "unit": "u",  "ingredient": "lemon",              "type": "spice" },
+        { "amount": "250",  "unit": "g",  "ingredient": "wheat flour",        "type": "flour" },
+        { "amount": "0.25", "unit": "ts", "ingredient": "salt",               "type": "salt"},
+        { "amount": "125",  "unit": "g",  "ingredient": "white caster sugar", "type": "sugar" },
+        { "amount": "185",  "unit": "g",  "ingredient": "butter",             "type": "fat" },
+        { "amount": "50",   "unit": "g",  "ingredient": "powdered sugar",     "type": "icing" },
+        { "amount": "1",    "unit": "u",  "ingredient": "eggs",               "type": "binding agent" }
+      ]
+    },
+    {
+      "name": "Coco Cookies",
+      "ingredients": [
+        { "amount": "4",    "unit": "u",  "ingredient": "eggs",               "type": "binding agent" },
+        { "amount": "2",    "unit": "ts", "ingredient": "baking powder",      "type": "rising agent" },
+        { "amount": "2",    "unit": "ts", "ingredient": "salt",               "type": "salt" },
+        { "amount": "100",  "unit": "g",  "ingredient": "bastard sugar",      "type": "sugar" },
+        { "amount": "1",    "unit": "u",  "ingredient": "vanilla sticks",     "type": "spice" },
+        { "amount": "30",   "unit": "g",  "ingredient": "ground almonds",     "type": "topping" },
+        { "amount": "250",  "unit": "g",  "ingredient": "grated coconut",     "type": "topping" }
+      ]
+    },
+    {
+      "name": "Ricciarelli",
+      "ingredients": [
+        { "amount": "2",    "unit": "u",  "ingredient": "eggs",           "type": "binding agent" },
+        { "amount": "0.5",  "unit": "u",  "ingredient": "lemon",          "type": "spice" },
+        { "amount": "200",  "unit": "g",  "ingredient": "sugar",          "type": "sugar" },
+        { "amount": "200",  "unit": "g",  "ingredient": "almond flour",   "type": "flour" },
+        { "amount": "1",    "unit": "u",  "ingredient": "vanilla sticks", "type": "spice" },
+        { "amount": "1",    "unit": "u",  "ingredient": "orange",         "type": "spice" },
+        { "amount": "25",   "unit": "g",  "ingredient": "powdered sugar", "type": "decoration" }
+      ]
+    },
+    {
+      "name": "White Chocolate Pistachio Cookie",
+      "ingredients": [
+        { "amount": "100",  "unit": "g",  "ingredient": "butter",             "type": "fat" },
+        { "amount": "225",  "unit": "g",  "ingredient": "peeled pistachio",   "type": "topping" },
+        { "amount": "125",  "unit": "g",  "ingredient": "white chocolate",    "type": "topping" },
+        { "amount": "125",  "unit": "g",  "ingredient": "sugar",              "type": "sugar" },
+        { "amount": "100",  "unit": "g",  "ingredient": "caster sugar",       "type": "sugar" },
+        { "amount": "1",    "unit": "ts", "ingredient": "vanilla extract",    "type": "spice" },
+        { "amount": "2",    "unit": "u",  "ingredient": "eggs",               "type": "binding agent" },
+        { "amount": "150",  "unit": "g",  "ingredient": "wheat flour",        "type": "flour" },
+        { "amount": "1",    "unit": "ts", "ingredient": "baking soda",        "type": "rising agent" }
+      ]
+    },
+    {
+      "name": "Lekker Cookie",
+      "ingredients": [
+        { "amount": "1",    "unit": "u",  "ingredient": "eggs",               "type": "binding agent" },
+        { "amount": "85",   "unit": "g",  "ingredient": "fine sugar",         "type": "sugar" },
+        { "amount": "85",   "unit": "g",  "ingredient": "butter",             "type": "fat" },
+        { "amount": "150",  "unit": "g",  "ingredient": "wheat flour",        "type": "flour"},
+        { "amount": "7",    "unit": "g",  "ingredient": "vanilla sugar",      "type": "spice" },
+        { "amount": "2",    "unit": "ts", "ingredient": "yeast",              "type": "rising agent" },
+        { "amount": "0.5",  "unit": "ts", "ingredient": "salt",               "type": "salt" },
+        { "amount": "150",  "unit": "g",  "ingredient": "milk chocolate",     "type": "topping" }
+      ]
+    },
+    {
+      "name": "Dadelkoekjes",
+      "ingredients": [
+        { "amount": "250",    "unit": "g",    "ingredient": "wheat flour",    "type": "flour" },
+        { "amount": "100",    "unit": "g",    "ingredient": "butter",         "type": "fat"},
+        { "amount": "75",     "unit": "g",    "ingredient": "powdered sugar", "type": "decoration" },
+        { "amount": "8",      "unit": "g",    "ingredient": "vanilla sugar",  "type": "spice"},
+        { "amount": "1",      "unit": "ts",   "ingredient": "vanilla aroma",  "type": "spice" },
+        { "amount": "1",      "unit": "u",    "ingredient": "eggs",           "type": "binding agent" },
+        { "amount": "75",     "unit": "g",    "ingredient": "dates",          "type": "topping" },
+        { "amount": "10",     "unit": "g",    "ingredient": "walnut",         "type": "topping"},
+        { "amount": "0.5",    "unit": "ts",   "ingredient": "cinnamon",       "type": "spice" }
+      ]
+    },
+    {
+      "name": "Zandkoekjes met hazelnoten en specerijen",
+      "ingredients": [
+        { "amount": "95",     "unit": "g",    "ingredient": "hazelnuts",      "type": "topping" },
+        { "amount": "135",    "unit": "g",    "ingredient": "wheat flour",    "type": "flour"},
+        { "amount": "75",    "unit": "g",     "ingredient": "powdered sugar", "type": "sugar" },
+        { "amount": "125",    "unit": "g",    "ingredient": "powdered sugar", "type": "icing" },
+        { "amount": "2",      "unit": "ts",   "ingredient": "cinnamon",       "type": "spice" },
+        { "amount": "1",      "unit": "ts",   "ingredient": "vanilla sugar",  "type": "spice" },
+        { "amount": "1",      "unit": "ts",   "ingredient": "cardamom",       "type": "spice" },
+        { "amount": "125",    "unit": "g",    "ingredient": "butter",         "type": "fat" }
+      ]
+    },
+    {
+      "name": "Blauwe bessenkoekjes",
+      "ingredients": [
+        { "amount": "200",    "unit": "g",  "ingredient": "butter",           "type": "fat" },
+        { "amount": "400",    "unit": "g",  "ingredient": "white chocolate",   "type": "topping" },
+        { "amount": "200",    "unit": "g",  "ingredient": "caster sugar",     "type": "sugar" },
+        { "amount": "100",    "unit": "g",  "ingredient": "sugar",            "type": "sugar"},
+        { "amount": "2",      "unit": "u",  "ingredient": "eggs",             "type": "binding agent" },
+        { "amount": "400",    "unit": "g",  "ingredient": "wheat flour",      "type": "flour"},
+        { "amount": "300",    "unit": "g",  "ingredient": "blueberry",      "type": "topping" }
+      ]
+    },
+    {
+      "name": "Ginger snaps (knapperige gember koekjes)",
+      "ingredients": [
+        { "amount": "250",    "unit": "g",    "ingredient": "self rising flour",  "type": "flour" },
+        { "amount": "1",      "unit": "ts",   "ingredient": "groud ginger",       "type": "spice" },
+        { "amount": "100",    "unit": "g",    "ingredient": "dark brown caster sugar",   "type": "sugar" },
+        { "amount": "2",      "unit": "ts",   "ingredient": "salt",               "type": "salt" },
+        { "amount": "100",    "unit": "g",    "ingredient": "butter",             "type": "fat" },
+        { "amount": "12",     "unit": "u",    "ingredient": "stem ginger",        "type": "spice" },
+        { "amount": "12",     "unit": "ts",   "ingredient": "maple syrup",        "type": "sugar" }
+      ]
+    },
+    {
+      "name": "Chocolade-pecankoekjes",
+      "ingredients": [
+        { "amount": "150",      "unit": "g",    "ingredient": "butter",               "type": "fat" },
+        { "amount": "100",      "unit": "g",    "ingredient": "cane sugar",           "type": "sugar" },
+        { "amount": "1",        "unit": "u",    "ingredient": "eggs",                 "type": "binding agent" },
+        { "amount": "0.5",      "unit": "ts",   "ingredient": "nutmeg",               "type": "spice" },
+        { "amount": "3",        "unit": "ts",   "ingredient": "cacao powder",         "type": "topping" },
+        { "amount": "125",      "unit": "g",    "ingredient": "self rising flour",    "type": "flour" },
+        { "amount": "50",       "unit": "g",    "ingredient": "dark chocolate",        "type": "topping" },
+        { "amount": "175",      "unit": "g",    "ingredient": "pecan nuts",           "type": "topping" }
+      ]
+    },
+    {
+      "name": "Citroenkoekjes",
+      "ingredients": [
+        { "amount": "2",      "unit": "u",  "ingredient": "lemon",                "type": "spice" },
+        { "amount": "400",    "unit": "g",  "ingredient": "self rising flour",    "type": "flour" },
+        { "amount": "250",    "unit": "g",  "ingredient": "butter",               "type": "fat" },
+        { "amount": "250",    "unit": "g",  "ingredient": "white caster sugar",   "type": "sugar" },
+        { "amount": "2",      "unit": "u",  "ingredient": "eggs",                 "type": "binding agent" }
+      ]
+    },
+    {
+      "name": "Walnoot-pruimenkoeken",
+      "ingredients": [
+        { "amount": "300",    "unit": "g",    "ingredient": "walnuts",            "type": "topping" },
+        { "amount": "300",    "unit": "g",    "ingredient": "plums",              "type": "topping" },
+        { "amount": "375",    "unit": "g",    "ingredient": "butter",             "type": "fat" },
+        { "amount": "375",    "unit": "g",    "ingredient": "light brown caster sugar",  "type": "sugar" },
+        { "amount": "3",      "unit": "u",    "ingredient": "eggs",               "type": "binding agent" },
+        { "amount": "24",     "unit": "g",    "ingredient": "vanilla sugar",      "type": "spice" },
+        { "amount": "525",    "unit": "g",    "ingredient": "wheat flour",        "type": "flour" },
+        { "amount": "3",      "unit": "ts",   "ingredient": "salt",               "type": "salt" }
+      ]
+    },
+    {
+      "name": "Kruidkoekjes",
+      "ingredients": [
+        { "amount": "5",      "unit": "u",    "ingredient": "stem ginger",                "type": "spice" },
+        { "amount": "150",    "unit": "g",    "ingredient": "butter",                     "type": "fat" },
+        { "amount": "100",    "unit": "g",    "ingredient": "light brown caster sugar",   "type": "sugar" },
+        { "amount": "50",     "unit": "g",    "ingredient": "granulated sugar",           "type": "sugar" },
+        { "amount": "175",    "unit": "g",    "ingredient": "wheat flour",                "type": "flour" },
+        { "amount": "1",      "unit": "ts",   "ingredient": "baking soda",                "type": "rising agent" },
+        { "amount": "0.5",    "unit": "ts",   "ingredient": "salt",                       "type": "salt" },
+        { "amount": "7",      "unit": "ts",   "ingredient": "gingerbread spices",         "type": "spices" },
+        { "amount": "70",     "unit": "g",    "ingredient": "powdered sugar",             "type": "icing"}
+      ]
+    },
+    {
+      "name": "Amandelkoekjes",
+      "ingredients": [
+        { "amount": "45",       "unit": "g",    "ingredient": "ground raw almonds",         "type": "flour" },
+        { "amount": "1",        "unit": "u",    "ingredient": "orange",                     "type": "spice" },
+        { "amount": "300",      "unit": "g",    "ingredient": "wheat flour",                "type": "flour" },
+        { "amount": "200",      "unit": "g",    "ingredient": "granulated sugar",           "type": "sugar" },
+        { "amount": "1",        "unit": "u",    "ingredient": "eggs",                       "type": "binding agent" },
+        { "amount": "185",      "unit": "g",    "ingredient": "butter",                     "type": "fat" }
+      ]
+    },
+    {
+      "name": "Fruitige kokoskoekjes",
+      "ingredients": [
+        { "amount": "50",       "unit": "g",    "ingredient": "dried red fruit",            "type": "spice" },
+        { "amount": "50",       "unit": "g",    "ingredient": "grated coconut",             "type": "spice" },
+        { "amount": "2",        "unit": "ts",   "ingredient": "baking soda",                "type": "rising agent" },
+        { "amount": "200",      "unit": "g",    "ingredient": "wheat flour",                "type": "flour" },
+        { "amount": "100",      "unit": "g",    "ingredient": "cane sugar",                 "type": "sugar" },
+        { "amount": "1",        "unit": "u",    "ingredient": "eggs",                       "type": "binding agent" },
+        { "amount": "125",      "unit": "g",    "ingredient": "butter",                     "type": "fat" }
+      ]
+    },
+    {
+      "name": "Havermoutkoekjes met rozemarijn",
+      "ingredients": [
+        { "amount": "200",       "unit": "g",     "ingredient": "oatmeal",                 "type": "flour" },
+        { "amount": "200",       "unit": "g",     "ingredient": "wheat flour",             "type": "flour" },
+        { "amount": "8",         "unit": "g",     "ingredient": "baking powder",           "type": "rising agent" },
+        { "amount": "5",         "unit": "g",     "ingredient": "rosemary",                "type": "spice" },
+        { "amount": "3",         "unit": "ts",    "ingredient": "cane sugar",              "type": "sugar" },
+        { "amount": "75",        "unit": "g",     "ingredient": "butter",                  "type": "fat" },
+        { "amount": "3",         "unit": "ts",    "ingredient": "lemon juice",             "type": "spice" },
+        { "amount": "9",         "unit": "ts",    "ingredient": "milk",                    "type": "fat"}
+      ]
+    },
+    {
+      "name": "Gezonde koekjes met banaan, rozijnen en kaneel",
+      "ingredients": [
+        { "amount": "3",        "unit": "u",     "ingredient": "mashed banana",           "type": "topping" },
+        { "amount": "180",      "unit": "g",     "ingredient": "whole wheat flour",       "type": "flour" },
+        { "amount": "1.5",      "unit": "ts",    "ingredient": "baking powder",           "type": "rising agent" },
+        { "amount": "1.5",      "unit": "ts",    "ingredient": "cinnamon",                "type": "spice" },
+        { "amount": "75",       "unit": "g",     "ingredient": "raisin",                  "type": "topping" },
+        { "amount": "3",        "unit": "g",     "ingredient": "sesame seed",             "type": "topping" }
+      ]
+    },
+    {
+      "name": "Havermout-rozijnenkoekjes zonder geraffineerde suiker",
+      "ingredients": [
+        { "amount": "2",         "unit": "u",     "ingredient": "apple",                   "type": "topping" },
+        { "amount": "200",       "unit": "g",     "ingredient": "oatmeal",                 "type": "flour" },
+        { "amount": "50",        "unit": "g",     "ingredient": "raisin",                  "type": "topping" },
+        { "amount": "55",        "unit": "g",     "ingredient": "slivered almonds",        "type": "topping" },
+        { "amount": "50",        "unit": "g",     "ingredient": "butter",                  "type": "fat" },
+        { "amount": "0.25",      "unit": "ts",    "ingredient": "salt",                    "type": "salt" }
+      ]
+    },
+    {
+      "name": "Appelkoekjes",
+      "ingredients": [
+        { "amount": "4",         "unit": "u",     "ingredient": "apple",                  "type": "topping" },
+        { "amount": "3",         "unit": "u",     "ingredient": "eggs",                   "type": "binding agent" },
+        { "amount": "66",        "unit": "g",     "ingredient": "sugar",                  "type": "sugar" },
+        { "amount": "1",         "unit": "ts",    "ingredient": "cinnamon",               "type": "spice" },
+        { "amount": "133",       "unit": "g",     "ingredient": "butter",                 "type": "fat" },
+        { "amount": "333",       "unit": "g",     "ingredient": "self rising flour",      "type": "flour" }
+      ]
+    },
+    {
+      "name": "Spicy Pear Cookies",
+      "ingredients": [
+        { "amount": "75",           "unit": "g",      "ingredient": "pecan nuts",       "type": "topping" },
+        { "amount": "300",          "unit": "g",      "ingredient": "pear",             "type": "topping" },
+        { "amount": "100",          "unit": "g",      "ingredient": "oatmeal",          "type": "flour" },
+        { "amount": "0.5",          "unit": "ts",     "ingredient": "baking powder",    "type": "rising agent" },
+        { "amount": "0.5",          "unit": "ts",     "ingredient": "cinnamon",         "type": "spice" },
+        { "amount": "0.25",         "unit": "ts",     "ingredient": "ground ginger",    "type": "spice" },
+        { "amount": "0.25",         "unit": "ts",     "ingredient": "cardamom",         "type": "spice" }
+      ]
+    },
+    {
+      "name": "Blauwe bessen-citroen koekjes",
+      "ingredients": [
+        { "amount": "185",  "unit": "g",      "ingredient": "butter",             "type": "fat" },
+        { "amount": "250",  "unit": "g",      "ingredient": "wheat flour",        "type": "flour" },
+        { "amount": "65",   "unit": "g",      "ingredient": "white caster sugar", "type": "sugar" },
+        { "amount": "65",   "unit": "g",      "ingredient": "powdered sugar",     "type": "sugar" },
+        { "amount": "1",    "unit": "ts",     "ingredient": "baking soda",        "type": "rising agent" },
+        { "amount": "1",    "unit": "ts",     "ingredient": "salt",               "type": "salt" },
+        { "amount": "1",    "unit": "u",      "ingredient": "eggs",               "type": "binding agent" },
+        { "amount": "1",    "unit": "u",      "ingredient": "lemon",              "type": "spice" },
+        { "amount": "1",    "unit": "ts",     "ingredient": "vanilla extract",    "type": "spice" },
+        { "amount": "100",  "unit": "g",      "ingredient": "blueberry",          "type": "topping" }
+      ]
+    },
+    {
+      "name": "Chuncky gember abrikozen koekjes",
+      "ingredients": [
+        { "amount": "130",  "unit": "g",      "ingredient": "butter",                   "type": "fat" },
+        { "amount": "250",  "unit": "g",      "ingredient": "wheat flour",              "type": "flour" },
+        { "amount": "120",  "unit": "g",      "ingredient": "light brown caster sugar", "type": "sugar" },
+        { "amount": "7",    "unit": "g",      "ingredient": "baking powder",            "type": "rising agent" },
+        { "amount": "100",  "unit": "g",      "ingredient": "dried apricot",            "type": "topping" },
+        { "amount": "30",   "unit": "g",      "ingredient": "fresh ginger",             "type": "spice" },
+        { "amount": "1",    "unit": "ts",     "ingredient": "cinnamon",                 "type": "spice" },
+        { "amount": "1",    "unit": "u",      "ingredient": "eggs",                    "type": "binding agent" },
+        { "amount": "1",    "unit": "ts",     "ingredient": "salt",                    "type": "salt" }
+      ]
+    }
+  ]
+}

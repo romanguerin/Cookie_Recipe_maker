@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8f6f3;
+}
+canvas {
+  padding: 0;
+  padding-top: 80px;
+  margin: auto;
+  display: block;
+  width: 800px
+}
+
+.highlight {
+  background-color: yellow;
+}
